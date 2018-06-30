@@ -1,19 +1,19 @@
 [
     {
       ":node_name": "ansible",
-      ":ip": "192.168.82.2",
+      ":ip": "192.168.33.10",
       ":hostname": "ansible.groman.com",
       ":memory": 512
     },
     {
       ":node_name": "ansible1",
-      ":ip": "192.168.82.3",
+      ":ip": "192.168.33.11",
       ":hostname": "ansible1.groman.com",
       ":memory": 1024
     },
     {
       ":node_name": "ansible2",
-      ":ip": "192.168.82.4",
+      ":ip": "192.168.33.12",
       ":hostname": "ansible1.groman.com",
       ":memory": 1024
     }
